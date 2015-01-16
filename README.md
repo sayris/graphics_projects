@@ -13,6 +13,5 @@ Projects utilizing OpenGL 3 and GLFW library.<br>  All projects were build for a
 
 <li>Project 3 - animating guard figure, plus some shadows<br> 
 			<ul><li><b>m</b> toggle through different modes <br> <br> </li></ul>
-			
 <li>Project 4 - simple terrain mapping<br> 
 </li></ul>
