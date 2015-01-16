@@ -1,0 +1,18 @@
+***** Project #1 Grading Rubric (100 points) *****
+
+====  Simulation 40 points ==== 
+HitTest function : 						  10/10 
+Wall-Collision function: 				  5/10 
+Collide Function: 						  7/10  
+Ball Bounce Function: 					  5/10  
+
+==== Rendering 30 points ==== 
+Draw Walls & Sphere & Loading Functions:  15/15  
+Flat Shader:  							  5/5 
+Directional Lighting Shader: 			  7/10 
+
+==== Style 30 points =====
+Style & Documentation    				  25/30 (Documentation) 
+
+
+Total:  79/100  
